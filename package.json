@@ -1,0 +1,28 @@
+{
+  "name": "nextbasics",
+  "version": "1.0.0",
+  "description": "from: https://nextjs.org/docs/getting-started",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^10.1.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev":  "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelanieHoHue/nextBasics.git"
+  },
+  "author": "MelnaieHoHue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelanieHoHue/nextBasics/issues"
+  },
+  "homepage": "https://github.com/MelanieHoHue/nextBasics#readme"
+}
